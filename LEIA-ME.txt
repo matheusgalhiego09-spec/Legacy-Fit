@@ -1,0 +1,19 @@
+LEGACY FIT — SITE
+=================
+
+Arquivos:
+- index.html
+- style.css
+- script.js
+
+COMO ABRIR
+1. Extraia o arquivo ZIP.
+2. Abra a pasta "legacy-fit".
+3. Dê dois cliques em index.html.
+4. O site abrirá no navegador.
+
+OBSERVAÇÕES
+- O site usa as fotos reais fornecidas via CDN do Wellhub, portanto precisa de internet para carregá-las.
+- O Google Maps também precisa de internet.
+- WhatsApp, Instagram, telefone, endereço e links do Wellhub já estão configurados.
+- O site funciona sem servidor local para visualização.
